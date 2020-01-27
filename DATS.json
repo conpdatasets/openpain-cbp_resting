@@ -29,7 +29,7 @@
 				"landingPage": "https://www.openpain.org/"
 			}
 		}
-	],
+    ],
     "version": "1.0",
     "privacy": "Open Access",
     "isAbout": [
@@ -42,36 +42,36 @@
         {
             "category": "Total number of sessions",
             "values": [
-                {
+		{
                     "value": "136"
                 }
-		]
+	    ]
+        },
+        {
+	    "category": "contact",
+	    "values": [
+		{
+			"value": "A. Vania Apkarian, Director Center for Translational Pain Research, Northwestern University, Feinberg School of Medicine, a-apkarian@northwestern.edu"
+		}
+            ]
+        },
+	{
+	    "category": "CONP_status",
+	    "values": [
+		{
+			"value": "external"
+		}
+	    ]
 	},
 	{
-			"category": "contact",
-			"values": [
-				{
-					"value": "A. Vania Apkarian, Director Center for Translational Pain Research, Northwestern University, Feinberg School of Medicine, a-apkarian@northwestern.edu"
-				}
-			]
-		},
+	    "category": "files",
+	    "values": [
 		{
-			"category": "CONP_status",
-			"values": [
-				{
-					"value": "external"
-				}
-			]
-		},
-		{
-			"category": "files",
-			"values": [
-				{
-					"value": "418"
-				}
-			]
-		},
-		{
+			"value": "418"
+		}
+	    ]
+	},
+	{
 			"category": "logo",
 			"values": [
 				{
@@ -79,8 +79,5 @@
 				}
 			]
 		}
-            ]
-        }
     ]
 }
-
