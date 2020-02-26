@@ -1,7 +1,11 @@
 {
     "title": "OpenPain cbp_resting",
     "description": "Data added from ftp://openpain.org/cbp_resting, see http://openpain.org for more information.",
-    
+    "licenses": [
+		{
+			"name": "http://openpain.org/generalLicense.html"
+		}
+	],
     "creators": [
         {
             "@type": "Organization",
@@ -35,6 +39,14 @@
 			}
 		}
     ],
+	"keywords": [
+		{
+			"value" : "human pain"
+		},
+		{
+			"value" : "brain imaging"
+		},
+	],
     "version": "1.0",
     "privacy": "Open Access",
     "isAbout": [
