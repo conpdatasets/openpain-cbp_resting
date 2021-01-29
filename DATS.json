@@ -8,7 +8,6 @@
 	],
     "creators": [
         {
-            "@type": "Organization",
             "name": "OpenPain"
         }
     ],
@@ -116,6 +115,14 @@
 			{
 				"value": "USA"
 			}
+	    ]
+	},
+	{
+	    "category": "subjects",
+	    "values": [
+		{
+			"value": "68"
+		}
 	    ]
 	},
 	{
